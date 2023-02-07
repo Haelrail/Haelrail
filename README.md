@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Haelrail
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning JS
 
 
 <!---
